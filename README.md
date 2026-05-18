@@ -1,0 +1,1 @@
+I am developed a mini application for Zoholics form filling by the user and send the lead alert to the manager in mail and creator integration between that two applications, This application contains the more than 16 forms and workflows behind this application, comman mail integration tasks I developed in this application.
